@@ -1,39 +1,233 @@
-[20:01:56] [Server thread/INFO]: Starting minecraft server version 1.8.3
-[20:01:56] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: Неверный дескриптор
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_31]
-	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_31]
-	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_31]
-	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_31]
-	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_31]
-	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_31]
-	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_31]
-	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_31]
-	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_31]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_31]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_31]
-	at kp$2.run(SourceFile:81) [minecraft_server.1.8.3.jar:?]
-[20:01:56] [Server thread/INFO]: Loading properties
-[20:01:56] [Server thread/INFO]: Default game type: SURVIVAL
-[20:01:56] [Server thread/INFO]: Generating keypair
-[20:01:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:01:56] [Server thread/INFO]: Using default channel type
-[20:01:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:01:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:01:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:01:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:01:56] [Server thread/INFO]: Preparing level "world"
-[20:01:57] [Server thread/INFO]: Preparing start region for level 0
-[20:01:58] [Server thread/INFO]: Preparing spawn area: 82%
-[20:01:58] [Server thread/INFO]: Done (1,201s)! For help, type "help" or "?"
-[20:02:06] [Server thread/INFO]: cherevon[/127.0.0.1:32539] logged in with entity id 138 at (57.5, 68.0, 265.5)
-[20:02:06] [Server thread/INFO]: cherevon joined the game
-[20:02:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4217ms behind, skipping 84 tick(s)
-[20:02:14] [Server thread/INFO]: cherevon has just earned the achievement [Taking Inventory]
-[20:03:20] [Server thread/INFO]: Stopping server
-[20:03:20] [Server thread/INFO]: Saving players
-[20:03:20] [Server thread/INFO]: cherevon lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.lang.StackOverflowError], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[20:03:20] [Server thread/INFO]: cherevon left the game
-[20:03:20] [Server thread/INFO]: Saving worlds
-[20:03:20] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[20:03:20] [Server Shutdown Thread/INFO]: Stopping server
+[00:00:56] [Server thread/INFO]: <cherevon> djn
+[00:00:58] [Server thread/INFO]: <cherevon> вот
+[00:01:00] [Server thread/INFO]: <MD13> спс
+[00:01:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2170ms behind, skipping 43 tick(s)
+[00:01:24] [Server thread/INFO]: <cherevon> я пошел)
+[00:01:30] [Server thread/INFO]: <cherevon> сервак выключу в час ночи)
+[00:01:42] [Server thread/INFO]: <cherevon> можешь потом закачать ео себе с github и запустить)
+[00:01:54] [Server thread/INFO]: <cherevon> только залить не забудь, а то твои изменения не сохранятся)
+[00:02:25] [Server thread/INFO]: <MD13> а как губку выжать
+[00:02:34] [Server thread/INFO]: <cherevon> в печку засунуть
+[00:03:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2191ms behind, skipping 43 tick(s)
+[00:04:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4037ms behind, skipping 80 tick(s)
+[00:05:51] [Server thread/INFO]: <cherevon> как край?)
+[00:06:35] [Server thread/INFO]: <cherevon> нафига ты это делаешь?
+[00:06:44] [Server thread/INFO]: <MD13> я буду тут жить
+[00:06:49] [Server thread/INFO]: <cherevon> хаххах
+[00:06:59] [Server thread/INFO]: <cherevon> ща будет весело)
+[00:07:40] [Server thread/INFO]: [cherevon: Set MD13's game mode to Survival Mode]
+[00:07:46] [Server thread/INFO]: <cherevon> хахха
+[00:07:55] [Server thread/INFO]: [cherevon: Set MD13's game mode to Creative Mode]
+[00:08:19] [Server thread/INFO]: <cherevon> ладно строй) вайпнуть всегда успеем)
+[00:08:27] [Server thread/INFO]: <cherevon> а что это будет?
+[00:08:45] [Server thread/INFO]: <cherevon> зачетные красные блоки)
+[00:10:08] [Server thread/INFO]: <cherevon> во =)
+[00:11:46] [Server thread/INFO]: <MD13> сука
+[00:11:59] [Server thread/INFO]: <cherevon> хахаххахах
+[00:12:04] [Server thread/INFO]: <MD13> во мудила
+[00:12:07] [Server thread/INFO]: <cherevon> я как раз подошел к компу XD
+[00:12:14] [Server thread/INFO]: <cherevon> дракон жжет XD
+[00:13:00] [Server thread/INFO]: <MD13> да пошел он
+[00:15:03] [Server thread/WARN]: Skipping Entity with id enderdragon
+[00:16:10] [Server thread/INFO]: [cherevon: Object successfully summoned]
+[00:16:16] [Server thread/INFO]: [cherevon: Object successfully summoned]
+[00:16:17] [Server thread/INFO]: [cherevon: Object successfully summoned]
+[00:16:18] [Server thread/INFO]: [cherevon: Object successfully summoned]
+[00:16:18] [Server thread/INFO]: [cherevon: Object successfully summoned]
+[00:16:20] [Server thread/INFO]: [cherevon: Object successfully summoned]
+[00:16:21] [Server thread/INFO]: [cherevon: Object successfully summoned]
+[00:16:21] [Server thread/INFO]: [cherevon: Object successfully summoned]
+[00:16:22] [Server thread/INFO]: [cherevon: Object successfully summoned]
+[00:16:23] [Server thread/INFO]: [cherevon: Object successfully summoned]
+[00:16:23] [Server thread/INFO]: [cherevon: Object successfully summoned]
+[00:16:31] [Server thread/INFO]: <cherevon> вот это тема0
+[00:16:42] [Server thread/INFO]: <MD13> хуй уничтожет
+[00:16:59] [Server thread/INFO]: <cherevon> но внутри ты не сможешь даже сундук поставить)
+[00:17:02] [Server thread/INFO]: <MD13> да бля серег мне в полне одного было достаточно
+[00:18:23] [Server thread/INFO]: <MD13> он не все блоки может уничтожать
+[00:18:40] [Server thread/INFO]: <cherevon> сундук вроде может)
+[00:18:55] [Server thread/INFO]: <cherevon> чет хз как их убрать)
+[00:19:00] [Server thread/INFO]: <cherevon> могу еще призвать)
+[00:20:19] [Server thread/INFO]: cherevon fell out of the world
+[00:20:19] [Server thread/INFO]: [cherevon: Killed cherevon]
+[00:20:19] [Server thread/INFO]: MD13 fell out of the world
+[00:20:19] [Server thread/INFO]: [cherevon: Killed MD13]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed item.item.enderPearl]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed entity.EnderCrystal.name]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Ender Dragon]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed entity.EnderCrystal.name]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Ender Dragon]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed entity.EnderCrystal.name]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Ender Dragon]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed entity.EnderCrystal.name]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:19] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Ender Dragon]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Ender Dragon]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed entity.EnderCrystal.name]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed entity.EnderCrystal.name]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed entity.EnderCrystal.name]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Ender Dragon]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed entity.EnderCrystal.name]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed entity.EnderCrystal.name]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Ender Dragon]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Enderman]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed entity.EnderCrystal.name]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Ender Dragon]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Ender Dragon]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Ender Dragon]
+[00:20:20] [Server thread/INFO]: [cherevon: Killed Ender Dragon]
+[00:20:32] [Server thread/INFO]: <cherevon> упс =)
+[00:20:40] [Server thread/INFO]: <MD13> серега какого черта верни меня туда
+[00:20:41] [Server thread/INFO]: <cherevon> ошибочка с командой XD
+[00:20:51] [Server thread/INFO]: <cherevon> xtib c.lf
+[00:20:53] [Server thread/INFO]: <cherevon> чеши сюда
+[00:20:58] [Server thread/INFO]: <cherevon> зато я убрал драконов края
+[00:21:20] [Server thread/INFO]: <cherevon> 1 остался норм)
+[00:21:31] [Server thread/INFO]: <cherevon> блин
+[00:21:36] [Server thread/INFO]: <cherevon> все стойки снеслись
+[00:22:15] [Server thread/INFO]: <MD13> вряд ли он лаву сможет забрать
+[00:22:19] [Server thread/INFO]: <MD13> а не смог
+[00:24:47] [Server thread/INFO]: [cherevon: Object successfully summoned]
+[00:24:57] [Server thread/INFO]: [cherevon: Object successfully summoned]
+[00:25:06] [Server thread/INFO]: [cherevon: Object successfully summoned]
+[00:25:19] [Server thread/INFO]: [cherevon: Object successfully summoned]
+[00:25:32] [Server thread/INFO]: [cherevon: Object successfully summoned]
+[00:25:42] [Server thread/INFO]: [cherevon: Object successfully summoned]
+[00:25:47] [Server thread/INFO]: <MD13> я смог
+[00:25:54] [Server thread/INFO]: <cherevon> что смог?
+[00:25:57] [Server thread/INFO]: <cherevon> что смог?
+[00:25:59] [Server thread/INFO]: [cherevon: Object successfully summoned]
+[00:26:06] [Server thread/INFO]: [cherevon: Object successfully summoned]
+[00:26:13] [Server thread/INFO]: [cherevon: Object successfully summoned]
+[00:26:24] [Server thread/INFO]: [cherevon: Object successfully summoned]
+[00:26:34] [Server thread/INFO]: [cherevon: Object successfully summoned]
+[00:26:43] [Server thread/INFO]: [cherevon: Object successfully summoned]
+[00:26:59] [Server thread/INFO]: [cherevon: Object successfully summoned]
+[00:27:07] [Server thread/INFO]: [cherevon: Object successfully summoned]
+[00:27:19] [Server thread/INFO]: [cherevon: Object successfully summoned]
+[00:27:25] [Server thread/INFO]: <cherevon> все заспаунил)
+[00:28:05] [Server thread/INFO]: <cherevon> я тут порт в ад поставлю
+[00:30:09] [Server thread/INFO]: <cherevon> нельзя тут порт в ад ставить)
+[00:30:15] [Server thread/INFO]: <cherevon> значит тп отсюда только смерть)
+[00:30:36] [Server thread/INFO]: <cherevon> ты бы хоть вход сделал)
+[00:30:46] [Server thread/INFO]: <MD13> я знаю где вход
+[00:30:55] [Server thread/INFO]: <cherevon> для людей)
+[00:32:00] [Server thread/INFO]: <MD13> серег я пошел
+[00:32:02] [Server thread/INFO]: MD13 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:32:02] [Server thread/INFO]: MD13 left the game
+[00:33:00] [Server thread/INFO]: [cherevon: Teleported cherevon to -413.5, 70.0, -610.5]
+[00:35:32] [Server thread/INFO]: [cherevon: Saved the world]
+[00:37:55] [Server thread/INFO]: cherevon fell out of the world
+[00:37:55] [Server thread/INFO]: [cherevon: Killed cherevon]
+[00:38:38] [Server thread/INFO]: cherevon fell out of the world
+[00:38:38] [Server thread/INFO]: [cherevon: Killed cherevon]
+[00:39:22] [Server thread/INFO]: cherevon lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Удаленный хост принудительно разорвал существующее подключение], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:39:22] [Server thread/INFO]: cherevon left the game
+[00:39:35] [Server thread/INFO]: Stopping the server
+[00:39:35] [Server thread/INFO]: Stopping server
+[00:39:35] [Server thread/INFO]: Saving players
+[00:39:35] [Server thread/INFO]: Saving worlds
+[00:39:35] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[00:39:35] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[00:39:35] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[00:39:35] [Server Shutdown Thread/INFO]: Stopping server
+[00:39:35] [Server Shutdown Thread/INFO]: Saving players
