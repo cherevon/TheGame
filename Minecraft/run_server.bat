@@ -1,0 +1,1 @@
+minecraft_server.1.8.3.jar -Xmx1024M -Xms1024M -jar minecraft_server.jar nogui
