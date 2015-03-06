@@ -1,27 +1,12 @@
-[19:48:34] [Server thread/INFO]: Starting minecraft server version 1.8.3
-[19:48:34] [Server thread/INFO]: Loading properties
-[19:48:34] [Server thread/INFO]: Default game type: SURVIVAL
-[19:48:34] [Server thread/INFO]: Generating keypair
-[19:48:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:48:34] [Server thread/INFO]: Using default channel type
-[19:48:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:48:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:48:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:48:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:48:34] [Server thread/INFO]: Preparing level "world"
-[19:48:34] [Server thread/INFO]: Preparing start region for level 0
-[19:48:35] [Server thread/INFO]: Preparing spawn area: 11%
-[19:48:36] [Server thread/INFO]: Preparing spawn area: 25%
-[19:48:37] [Server thread/INFO]: Preparing spawn area: 40%
-[19:48:38] [Server thread/INFO]: Preparing spawn area: 56%
-[19:48:39] [Server thread/INFO]: Preparing spawn area: 72%
-[19:48:40] [Server thread/INFO]: Preparing spawn area: 91%
-[19:48:41] [Server thread/INFO]: Done (7,192s)! For help, type "help" or "?"
-[19:48:46] [Server thread/INFO]: Stopping the server
-[19:48:46] [Server thread/INFO]: Stopping server
-[19:48:46] [Server thread/INFO]: Saving players
-[19:48:46] [Server thread/INFO]: Saving worlds
-[19:48:46] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[19:48:48] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[19:48:48] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[19:48:49] [Server Shutdown Thread/INFO]: Stopping server
+[00:16:29] [Server thread/INFO]: [MD13: Teleported MD13 to 64.5, 65.0, 603.5]
+[00:40:39] [Server thread/INFO]: MD13 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:40:39] [Server thread/INFO]: MD13 left the game
+[00:41:58] [Server thread/INFO]: Stopping the server
+[00:41:58] [Server thread/INFO]: Stopping server
+[00:41:58] [Server thread/INFO]: Saving players
+[00:41:58] [Server thread/INFO]: Saving worlds
+[00:41:58] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[00:41:58] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[00:41:58] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[00:41:58] [Server Shutdown Thread/INFO]: Stopping server
+[00:41:58] [Server Shutdown Thread/INFO]: Saving players
