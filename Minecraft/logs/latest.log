@@ -1,46 +1,112 @@
-[21:56:56] [Server thread/INFO]: Starting minecraft server version 1.8.3
-[21:56:56] [Server thread/INFO]: Loading properties
-[21:56:56] [Server thread/INFO]: Default game type: SURVIVAL
-[21:56:56] [Server thread/INFO]: Generating keypair
-[21:56:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:56:56] [Server thread/INFO]: Using default channel type
-[21:56:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:56:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:56:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:56:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:56:57] [Server thread/INFO]: Preparing level "world"
-[21:56:57] [Server thread/INFO]: Preparing start region for level 0
-[21:56:58] [Server thread/INFO]: Preparing spawn area: 76%
-[21:56:58] [Server thread/INFO]: Done (1,169s)! For help, type "help" or "?"
-[21:58:07] [Server thread/INFO]: cherevon[/94.19.203.150:3168] logged in with entity id 149 at (136.3737779742249, 68.7313666432753, 581.4005803943212)
-[21:58:07] [Server thread/INFO]: cherevon joined the game
-[21:58:20] [Server thread/INFO]: cherevon lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[21:58:20] [Server thread/INFO]: cherevon left the game
-[22:05:48] [Server thread/INFO]: cherevon[/94.19.203.150:3260] logged in with entity id 323 at (130.67846820250446, 70.0, 580.9709004995236)
-[22:05:48] [Server thread/INFO]: cherevon joined the game
-[22:05:59] [Server thread/INFO]: [cherevon: Teleported cherevon to 219.5, 100.0, 1300.5]
-[22:06:56] [Server thread/INFO]: [cherevon: Object successfully summoned]
-[22:07:17] [Server thread/INFO]: [cherevon: Killed Ender Dragon]
-[22:07:33] [Server thread/INFO]: [cherevon: Object successfully summoned]
-[22:07:50] [Server thread/INFO]: [cherevon: Killed Ender Dragon]
-[22:08:07] [Server thread/INFO]: [cherevon: Object successfully summoned]
-[22:08:54] [Server thread/INFO]: [cherevon: Object successfully summoned]
-[22:09:15] [Server thread/INFO]: [cherevon: Killed Wither]
-[22:11:43] [Server thread/INFO]: [cherevon: Object successfully summoned]
-[22:11:50] [Server thread/INFO]: [cherevon: Killed Wither]
-[22:11:59] [Server thread/INFO]: [cherevon: Object successfully summoned]
-[22:12:04] [Server thread/INFO]: [cherevon: Killed Wither]
-[22:12:08] [Server thread/INFO]: [cherevon: Object successfully summoned]
-[22:12:13] [Server thread/INFO]: [cherevon: Killed Wither]
-[22:17:36] [Server thread/INFO]: cherevon lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: ”даленный хост принудительно разорвал существующее подключение], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[22:17:36] [Server thread/INFO]: cherevon left the game
-[22:18:03] [Server thread/INFO]: Stopping server
-[22:18:03] [Server thread/INFO]: Saving players
-[22:18:03] [Server thread/INFO]: Saving worlds
-[22:18:03] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[22:18:03] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[22:18:03] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[22:18:03] [Server Shutdown Thread/INFO]: Stopping server
-[22:18:03] [Server Shutdown Thread/INFO]: Saving players
-[22:18:03] [Server Shutdown Thread/INFO]: Saving worlds
-[22:18:03] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
+[00:01:41] [Server thread/INFO]: [cherevon: 459 blocks filled]
+[00:01:52] [Server thread/INFO]: [MD13: 110 blocks filled]
+[00:07:00] [Server thread/INFO]: <cherevon> ну что?
+[00:07:12] [Server thread/INFO]: [MD13: 13 blocks filled]
+[00:07:28] [Server thread/INFO]: [MD13: Set the time to 1000]
+[00:07:51] [Server thread/INFO]: <cherevon> € просто хочу уже пойти посмотреть “Ѕ¬ и спать
+[00:08:17] [Server thread/INFO]: <MD13> делай тп ко мне
+[00:09:17] [Server thread/INFO]: <MD13> серег
+[00:09:19] [Server thread/INFO]: <MD13> делай тп ко мне
+[00:09:29] [Server thread/INFO]: [cherevon: Teleported cherevon to MD13]
+[00:09:38] [Server thread/INFO]: <MD13> говно да?
+[00:09:40] [Server thread/INFO]: <cherevon> ничего не изменилось
+[00:09:46] [Server thread/INFO]: <cherevon> просто дорожка
+[00:09:52] [Server thread/INFO]: <MD13> всмысле?
+[00:10:02] [Server thread/INFO]: <cherevon> это просто дорожка
+[00:10:08] [Server thread/INFO]: <MD13> говно
+[00:10:13] [Server thread/INFO]: [MD13: Teleported MD13 to cherevon]
+[00:10:43] [Server thread/INFO]: <MD13> пошли к тебе
+[00:10:45] [Server thread/INFO]: [cherevon: Teleported cherevon to 219.5, 100.0, 1435.5]
+[00:10:51] [Server thread/INFO]: [MD13: Teleported MD13 to cherevon]
+[00:10:57] [Server thread/INFO]: [MD13: Teleported MD13 to cherevon]
+[00:11:06] [Server thread/INFO]: [cherevon: Teleported cherevon to 219.5, 200.0, 1435.5]
+[00:11:10] [Server thread/INFO]: <cherevon> dj
+[00:11:12] [Server thread/INFO]: <cherevon> во
+[00:11:14] [Server thread/INFO]: [MD13: Teleported MD13 to cherevon]
+[00:11:38] [Server thread/INFO]: <MD13> а что с драконом то?
+[00:11:44] [Server thread/INFO]: <cherevon> тут еще, конечно, много достраивать, но уже уютненько)
+[00:11:49] [Server thread/INFO]: <cherevon> он мой питомец)
+[00:12:01] [Server thread/INFO]: <MD13> а чего он не летит
+[00:12:11] [Server thread/INFO]: <cherevon> € отключил его мозг =)
+[00:13:03] [Server thread/INFO]: [cherevon: Given [Barrier] * 1 to cherevon]
+[00:13:15] [Server thread/INFO]: [cherevon: Given [Barrier] * 1 to cherevon]
+[00:13:26] [Server thread/INFO]: <cherevon> зацени =)
+[00:13:49] [Server thread/INFO]: <cherevon> серега?
+[00:13:54] [Server thread/INFO]: <MD13> да
+[00:13:59] [Server thread/INFO]: <cherevon> смотри
+[00:14:07] [Server thread/INFO]: <cherevon> встань за дверью
+[00:14:17] [Server thread/INFO]: <cherevon> и стой
+[00:14:20] [Server thread/INFO]: <cherevon> вплотную
+[00:14:37] [Server thread/INFO]: <cherevon> чуток от мен€
+[00:15:28] [Server thread/INFO]: <cherevon> тема)
+[00:15:40] [Server thread/INFO]: <MD13> и?
+[00:15:40] [Server thread/INFO]: <cherevon> а теперь выйди)
+[00:16:05] [Server thread/INFO]: <cherevon> каково?)
+[00:16:12] [Server thread/INFO]: <MD13> а блоки не видимые да?
+[00:16:15] [Server thread/INFO]: <cherevon> да)
+[00:16:30] [Server thread/INFO]: <MD13> откуда ты команды берешь?
+[00:16:46] [Server thread/INFO]: <cherevon> это просто команда give =)
+[00:17:56] [Server thread/INFO]: <MD13> € займу у теб€ второй этаж дома?
+[00:18:01] [Server thread/INFO]: <cherevon> хорошо
+[00:18:31] [Server thread/INFO]: <MD13> стой тоесть все мои блоки теперь невидимы?
+[00:18:56] [Server thread/INFO]: <cherevon> нет
+[00:19:03] [Server thread/INFO]: MD13 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: ѕрограмма на вашем хост-компьютере разорвала установленное подключение], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:19:03] [Server thread/INFO]: MD13 left the game
+[00:19:06] [Server thread/INFO]: <cherevon> почему это они вдруг невидимы?
+[00:19:51] [Server thread/INFO]: MD13[/178.71.67.39:64830] logged in with entity id 73758 at (248.25168276036877, 88.2566821370675, 1354.0990538633957)
+[00:19:51] [Server thread/INFO]: MD13 joined the game
+[00:20:31] [Server thread/INFO]: <cherevon> нафига тебе бронь в креативке? XD
+[00:21:00] [Server thread/INFO]: <MD13> что бы было
+[00:21:24] [Server thread/INFO]: <cherevon> надо бы сделать телепорт к степашке)
+[00:21:49] [Server thread/INFO]: <cherevon> € пошел смотреть тбв)
+[00:22:01] [Server thread/INFO]: <cherevon> через 20 минут отключу серв)
+[00:22:07] [Server thread/INFO]: [@: Given [Diamond Helmet] * 1 to MD13]
+[00:22:07] [Server thread/INFO]: [@: Given [Diamond Chestplate] * 1 to MD13]
+[00:22:09] [Server thread/INFO]: [@: Given [Diamond Chestplate] * 1 to MD13]
+[00:22:09] [Server thread/INFO]: [@: Given [Diamond Leggings] * 1 to MD13]
+[00:22:09] [Server thread/INFO]: [@: Given [Diamond Helmet] * 1 to MD13]
+[00:22:10] [Server thread/INFO]: [@: Given [Diamond Leggings] * 1 to MD13]
+[00:22:10] [Server thread/INFO]: [@: Given [Diamond Boots] * 1 to MD13]
+[00:22:10] [Server thread/INFO]: [@: Given [Diamond Chestplate] * 1 to MD13]
+[00:22:11] [Server thread/INFO]: [@: Given [Diamond Boots] * 1 to MD13]
+[00:22:11] [Server thread/INFO]: [@: Given [Diamond Leggings] * 1 to MD13]
+[00:22:52] [Server thread/INFO]: <MD13> пойду портал в рай строить
+[00:23:00] [Server thread/INFO]: <cherevon> заебешьс€)
+[00:23:26] [Server thread/INFO]: [MD13: Set the time to 1000]
+[00:25:32] [Server thread/INFO]: There is no such item with name minecraft:portal
+[00:25:43] [Server thread/INFO]: <cherevon> пока =)
+[00:25:48] [Server thread/INFO]: cherevon lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: ”даленный хост принудительно разорвал существующее подключение], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:25:48] [Server thread/INFO]: cherevon left the game
+[00:34:05] [Server thread/INFO]: [MD13: 1056 blocks filled]
+[00:35:27] [Server thread/INFO]: [MD13: Set the time to 1000]
+[00:45:54] [Server thread/INFO]: [Server] —ерег € вырубаю сервер и иду спать =)
+[00:46:05] [Server thread/INFO]: <MD13> стой 5 мин
+[00:46:24] [Server thread/INFO]: [Server] может ты просто у себ€ запустишь? € спать хочу
+[00:46:38] [Server thread/INFO]: <MD13> посмотри и иди спать
+[00:46:52] [Server thread/INFO]: cherevon[/94.19.203.150:5113] logged in with entity id 120694 at (240.9711378835295, 81.0, 1370.7558181614934)
+[00:46:52] [Server thread/INFO]: cherevon joined the game
+[00:46:57] [Server thread/INFO]: MD13 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: ”даленный хост принудительно разорвал существующее подключение], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:46:57] [Server thread/INFO]: MD13 left the game
+[00:47:31] [Server thread/INFO]: MD13[/178.71.67.39:64997] logged in with entity id 121734 at (178.36100707896685, 82.02997397602103, 1365.8235760466196)
+[00:47:31] [Server thread/INFO]: MD13 joined the game
+[00:48:06] [Server thread/INFO]: <cherevon> есть шанс провалитьс€
+[00:48:10] [Server thread/INFO]: <cherevon> а нафига здесь?
+[00:48:31] [Server thread/INFO]: <MD13> € тестил
+[00:48:49] [Server thread/INFO]: <cherevon> € пошел спать)
+[00:48:57] [Server thread/INFO]: <MD13> что демаешь
+[00:49:02] [Server thread/INFO]: <MD13> думаешь
+[00:49:12] [Server thread/INFO]: <cherevon> перенеси ее отсюда, € потом буду дорогу на наблюдательный пост делать)
+[00:49:23] [Server thread/INFO]: <MD13> ок
+[00:49:29] [Server thread/INFO]: <cherevon> и лучше ее делать в каком-нибудь месте с ловушками
+[00:49:41] [Server thread/INFO]: <cherevon> дл€ дороги слишком шумна€
+[00:49:47] [Server thread/INFO]: <MD13> ага
+[00:49:52] [Server thread/INFO]: MD13 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:49:52] [Server thread/INFO]: MD13 left the game
+[00:51:01] [Server thread/INFO]: [cherevon: Stopping the server]
+[00:51:01] [Server thread/INFO]: Stopping server
+[00:51:01] [Server thread/INFO]: Saving players
+[00:51:01] [Server thread/INFO]: Saving worlds
+[00:51:01] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[00:51:01] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[00:51:01] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[00:51:01] [Server Shutdown Thread/INFO]: Stopping server
