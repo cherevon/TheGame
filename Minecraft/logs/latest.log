@@ -1,403 +1,254 @@
-[00:02:16] [Server thread/INFO]: [cherevon: 3375 blocks cloned]
-[00:03:07] [Server thread/INFO]: MD13 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:03:07] [Server thread/INFO]: MD13 left the game
-[00:03:13] [Server thread/INFO]: MD13[/192.168.0.105:61209] logged in with entity id 257442 at (1812.6125108002993, 106.06479354475262, 627.9784019302289)
-[00:03:13] [Server thread/INFO]: MD13 joined the game
-[00:08:15] [Server thread/INFO]: [cherevon: Set the time to 1000]
-[00:15:19] [Server thread/INFO]: [MD13: 15 blocks filled]
-[00:15:39] [Server thread/INFO]: [cherevon: 222 blocks filled]
-[00:15:46] [Server thread/INFO]: [MD13: 30 blocks filled]
-[00:26:30] [Server thread/INFO]: MD13 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:26:30] [Server thread/INFO]: MD13 left the game
-[00:27:13] [Server thread/INFO]: MD13[/192.168.0.105:61263] logged in with entity id 289249 at (1767.8798222872392, 81.39094440705436, 628.2986805107878)
-[00:27:13] [Server thread/INFO]: MD13 joined the game
-[00:33:22] [Server thread/INFO]: [cherevon: Set the time to 13000]
-[00:33:36] [Server thread/INFO]: [cherevon: Set the time to 0]
-[00:33:42] [Server thread/INFO]: [cherevon: Set the time to 15000]
-[00:48:36] [Server thread/INFO]: MD13 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:48:36] [Server thread/INFO]: MD13 left the game
-[00:49:52] [Server thread/INFO]: cherevon lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Удаленный хост принудительно разорвал существующее подключение], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:49:52] [Server thread/INFO]: cherevon left the game
-[00:51:11] [Server thread/INFO]: cherevon[/127.0.0.1:4321] logged in with entity id 317640 at (1785.3689225129858, 92.833371296755, 646.0855629223656)
-[00:51:11] [Server thread/INFO]: cherevon joined the game
-[00:51:45] [Server thread/INFO]: cherevon lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Удаленный хост принудительно разорвал существующее подключение], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:51:45] [Server thread/INFO]: cherevon left the game
-[00:52:41] [Server thread/INFO]: cherevon[/127.0.0.1:4367] logged in with entity id 318579 at (1787.4315536296656, 91.4972874052279, 635.310214702831)
-[00:52:41] [Server thread/INFO]: cherevon joined the game
-[00:53:55] [Server thread/INFO]: cherevon lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Удаленный хост принудительно разорвал существующее подключение], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:53:55] [Server thread/INFO]: cherevon left the game
-[00:55:18] [Server thread/INFO]: cherevon[/127.0.0.1:4450] logged in with entity id 319407 at (1794.8765493429664, 88.4972808160139, 632.1804162510523)
-[00:55:18] [Server thread/INFO]: cherevon joined the game
-[00:55:34] [Server thread/INFO]: cherevon lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:55:34] [Server thread/INFO]: cherevon left the game
-[00:55:59] [Server thread/INFO]: cherevon[/127.0.0.1:4456] logged in with entity id 319771 at (1808.655543815413, 93.7937407966379, 647.6187339272689)
-[00:55:59] [Server thread/INFO]: cherevon joined the game
-[00:56:34] [Server thread/INFO]: cherevon lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:56:34] [Server thread/INFO]: cherevon left the game
-[01:02:17] [Server thread/INFO]: cherevon[/127.0.0.1:5007] logged in with entity id 320118 at (1860.4219924894471, 66.0, 619.5873797493161)
-[01:02:17] [Server thread/INFO]: cherevon joined the game
-[01:02:21] [Server thread/INFO]: cherevon lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:02:21] [Server thread/INFO]: cherevon left the game
-[01:02:42] [Server thread/INFO]: cherevon[/127.0.0.1:5012] logged in with entity id 320280 at (1860.4219924894471, 66.0, 619.5873797493161)
-[01:02:42] [Server thread/INFO]: cherevon joined the game
-[01:03:50] [Server thread/INFO]: [cherevon: Set the time to 1000]
-[01:04:56] [Server thread/INFO]: cherevon lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:04:56] [Server thread/INFO]: cherevon left the game
-[01:09:28] [Server thread/INFO]: cherevon[/127.0.0.1:5537] logged in with entity id 327249 at (1811.3203981129177, 77.22811452362986, 612.7535142199634)
-[01:09:28] [Server thread/INFO]: cherevon joined the game
-[01:10:26] [Server thread/INFO]: cherevon lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Удаленный хост принудительно разорвал существующее подключение], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:10:26] [Server thread/INFO]: cherevon left the game
-[01:12:35] [Server thread/INFO]: cherevon[/127.0.0.1:5630] logged in with entity id 329219 at (1792.9913514325876, 64.0, 623.1422248084357)
-[01:12:35] [Server thread/INFO]: cherevon joined the game
-[01:13:12] [Server thread/INFO]: cherevon lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Удаленный хост принудительно разорвал существующее подключение], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:13:12] [Server thread/INFO]: cherevon left the game
-[01:13:14] [Server thread/INFO]: MD13[/192.168.0.105:63182] logged in with entity id 330347 at (1784.0290663416397, 98.42455953062785, 620.6840492921726)
-[01:13:14] [Server thread/INFO]: MD13 joined the game
-[01:16:07] [Server thread/INFO]: cherevon[/127.0.0.1:5775] logged in with entity id 333560 at (1846.179048655196, 92.40973328040445, 627.322069412366)
-[01:16:07] [Server thread/INFO]: cherevon joined the game
-[01:17:00] [Server thread/INFO]: cherevon lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Удаленный хост принудительно разорвал существующее подключение], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:17:00] [Server thread/INFO]: cherevon left the game
-[01:20:32] [Server thread/INFO]: cherevon[/127.0.0.1:5971] logged in with entity id 339369 at (1804.265186155562, 85.63340873332709, 621.8241847934363)
-[01:20:32] [Server thread/INFO]: cherevon joined the game
-[01:20:49] [Server thread/INFO]: cherevon lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Удаленный хост принудительно разорвал существующее подключение], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:20:49] [Server thread/INFO]: cherevon left the game
-[01:23:10] [Server thread/INFO]: cherevon[/127.0.0.1:6223] logged in with entity id 343115 at (1804.265186155562, 85.63340873332709, 621.8241847934363)
-[01:23:10] [Server thread/INFO]: cherevon joined the game
-[01:23:32] [Server thread/INFO]: MD13 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Удаленный хост принудительно разорвал существующее подключение], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:23:32] [Server thread/INFO]: MD13 left the game
-[01:23:47] [Server thread/INFO]: cherevon lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:23:47] [Server thread/INFO]: cherevon left the game
-[01:26:46] [Server thread/INFO]: cherevon[/127.0.0.1:6473] logged in with entity id 344406 at (1805.2323337378652, 81.74728054779457, 622.0944491454376)
-[01:26:46] [Server thread/INFO]: cherevon joined the game
-[01:26:53] [Server thread/INFO]: cherevon lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Удаленный хост принудительно разорвал существующее подключение], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:26:53] [Server thread/INFO]: cherevon left the game
-[01:30:12] [Server thread/INFO]: cherevon[/127.0.0.1:6708] logged in with entity id 344633 at (1805.2323337378652, 81.74728054779457, 622.0944491454376)
-[01:30:12] [Server thread/INFO]: cherevon joined the game
-[01:30:47] [Server thread/INFO]: cherevon lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:30:47] [Server thread/INFO]: cherevon left the game
-[01:36:30] [Server thread/INFO]: cherevon[/127.0.0.1:7280] logged in with entity id 345253 at (1827.3167193433073, 87.0055025574702, 604.7067637815)
-[01:36:30] [Server thread/INFO]: cherevon joined the game
-[01:36:58] [Server thread/INFO]: cherevon lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Удаленный хост принудительно разорвал существующее подключение], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:36:58] [Server thread/INFO]: cherevon left the game
-[01:39:01] [Server thread/INFO]: cherevon[/127.0.0.1:7407] logged in with entity id 345879 at (1773.237255234207, 87.0055025574702, 612.8077799968765)
-[01:39:01] [Server thread/INFO]: cherevon joined the game
-[01:40:17] [Server thread/INFO]: cherevon lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Удаленный хост принудительно разорвал существующее подключение], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:40:17] [Server thread/INFO]: cherevon left the game
-[01:43:35] [Server thread/INFO]: cherevon[/127.0.0.1:7456] logged in with entity id 347995 at (1835.304667824231, 88.0, 639.6623624447129)
-[01:43:35] [Server thread/INFO]: cherevon joined the game
-[01:44:19] [Server thread/INFO]: MD13[/192.168.0.105:64513] logged in with entity id 348804 at (1822.603337770794, 92.4160794337948, 621.7725105133886)
-[01:44:19] [Server thread/INFO]: MD13 joined the game
-[01:44:44] [Server thread/INFO]: MD13 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:44:44] [Server thread/INFO]: MD13 left the game
-[01:47:58] [Server thread/INFO]: MD13[/192.168.0.105:64557] logged in with entity id 354356 at (1835.0468125757743, 85.0, 635.0596994506037)
-[01:47:58] [Server thread/INFO]: MD13 joined the game
-[01:51:53] [Server thread/INFO]: [cherevon: Set the time to 13000]
-[01:52:01] [Server thread/INFO]: [cherevon: Set the time to 1500]
-[01:52:05] [Server thread/INFO]: [cherevon: Set the time to 15000]
-[02:00:30] [Server thread/INFO]: [MD13: 1954 blocks filled]
-[02:00:41] [Server thread/INFO]: [MD13: 452 blocks filled]
-[02:07:22] [Server thread/INFO]: [MD13: 389 blocks filled]
-[02:07:37] [Server thread/INFO]: [cherevon: 10098 blocks cloned]
-[02:08:16] [Server thread/INFO]: [cherevon: 12342 blocks cloned]
-[02:08:35] [Server thread/INFO]: [cherevon: 12342 blocks cloned]
-[02:08:57] [Server thread/INFO]: [MD13: 1459 blocks filled]
-[02:09:37] [Server thread/INFO]: [MD13: 4848 blocks filled]
-[02:09:42] [Server thread/INFO]: [cherevon: 283 blocks filled]
-[02:11:16] [Server thread/INFO]: [MD13: 1345 blocks filled]
-[02:12:03] [Server thread/INFO]: [cherevon: 2666 blocks filled]
-[02:12:27] [Server thread/INFO]: [MD13: 920 blocks filled]
-[02:12:44] [Server thread/INFO]: [cherevon: 3400 blocks filled]
-[02:13:14] [Server thread/INFO]: [MD13: 598 blocks filled]
-[02:13:34] [Server thread/INFO]: [cherevon: 3612 blocks filled]
-[02:14:11] [Server thread/INFO]: [MD13: 170 blocks filled]
-[02:14:57] [Server thread/INFO]: [cherevon: 943 blocks filled]
-[02:16:32] [Server thread/INFO]: [MD13: 60 blocks filled]
-[02:17:07] [Server thread/INFO]: [MD13: 200 blocks filled]
-[02:17:40] [Server thread/INFO]: [cherevon: 18245 blocks filled]
-[02:17:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3087ms behind, skipping 61 tick(s)
-[02:17:45] [Server thread/INFO]: [MD13: 40 blocks filled]
-[02:18:39] [Server thread/INFO]: [MD13: 5227 blocks filled]
-[02:18:58] [Server thread/INFO]: [MD13: 735 blocks filled]
-[02:19:22] [Server thread/INFO]: [cherevon: 309 blocks filled]
-[02:19:37] [Server thread/INFO]: [MD13: 474 blocks filled]
-[02:19:46] [Server thread/INFO]: [MD13: 2904 blocks filled]
-[02:20:19] [Server thread/INFO]: [MD13: 4194 blocks filled]
-[02:20:23] [Server thread/INFO]: [cherevon: 1258 blocks filled]
-[02:21:15] [Server thread/INFO]: [cherevon: 3974 blocks filled]
-[02:22:01] [Server thread/INFO]: [MD13: 1125 blocks filled]
-[02:22:14] [Server thread/INFO]: [cherevon: 584 blocks filled]
-[02:22:34] [Server thread/INFO]: [MD13: 1470 blocks filled]
-[02:31:15] [Server thread/INFO]: [cherevon: 11374 blocks cloned]
-[02:32:25] [Server thread/INFO]: [cherevon: 10406 blocks cloned]
-[02:33:55] [Server thread/INFO]: [cherevon: 9438 blocks cloned]
-[02:35:12] [Server thread/INFO]: [cherevon: 8470 blocks cloned]
-[02:35:58] [Server thread/INFO]: [cherevon: 7502 blocks cloned]
-[02:36:30] [Server thread/INFO]: [cherevon: 6534 blocks cloned]
-[02:36:54] [Server thread/INFO]: [cherevon: 5566 blocks cloned]
-[02:37:49] [Server thread/INFO]: [cherevon: 4598 blocks cloned]
-[02:38:14] [Server thread/INFO]: [cherevon: 3630 blocks cloned]
-[02:39:27] [Server thread/INFO]: [MD13: 216 blocks cloned]
-[02:39:56] [Server thread/INFO]: [MD13: 216 blocks cloned]
-[02:46:06] [Server thread/INFO]: [MD13: 12342 blocks cloned]
-[02:49:07] [Server thread/INFO]: [MD13: 11374 blocks cloned]
-[02:49:35] [Server thread/INFO]: [MD13: 12342 blocks cloned]
-[02:50:19] [Server thread/INFO]: [MD13: 224 blocks filled]
-[02:51:42] [Server thread/INFO]: [MD13: 202 blocks filled]
-[02:51:55] [Server thread/INFO]: [cherevon: 12342 blocks cloned]
-[02:52:29] [Server thread/INFO]: [MD13: 37 blocks filled]
-[02:54:45] [Server thread/INFO]: [cherevon: 11858 blocks cloned]
-[02:55:27] [Server thread/INFO]: [cherevon: 11374 blocks cloned]
-[02:56:37] [Server thread/INFO]: [MD13: 11374 blocks cloned]
-[02:57:16] [Server thread/INFO]: [cherevon: 10890 blocks cloned]
-[02:58:13] [Server thread/INFO]: [cherevon: 10406 blocks cloned]
-[02:58:33] [Server thread/INFO]: [cherevon: 9922 blocks cloned]
-[02:59:15] [Server thread/INFO]: [cherevon: 9438 blocks cloned]
-[02:59:32] [Server thread/INFO]: [cherevon: 8954 blocks cloned]
-[02:59:50] [Server thread/INFO]: [cherevon: 8470 blocks cloned]
-[03:00:26] [Server thread/INFO]: [cherevon: 7986 blocks cloned]
-[03:00:48] [Server thread/INFO]: [cherevon: 7502 blocks cloned]
-[03:00:55] [Server thread/INFO]: [MD13: 473 blocks cloned]
-[03:01:14] [Server thread/INFO]: [cherevon: 7018 blocks cloned]
-[03:01:31] [Server thread/INFO]: [cherevon: 6534 blocks cloned]
-[03:01:35] [Server thread/INFO]: [MD13: 12342 blocks cloned]
-[03:01:57] [Server thread/INFO]: [cherevon: 6050 blocks cloned]
-[03:02:26] [Server thread/INFO]: [MD13: 216 blocks filled]
-[03:02:35] [Server thread/INFO]: [cherevon: 5566 blocks cloned]
-[03:02:41] [Server thread/INFO]: [MD13: 10406 blocks cloned]
-[03:02:55] [Server thread/INFO]: [cherevon: 5082 blocks cloned]
-[03:03:11] [Server thread/INFO]: [MD13: 12342 blocks cloned]
-[03:03:12] [Server thread/INFO]: [cherevon: 4598 blocks cloned]
-[03:03:28] [Server thread/INFO]: [cherevon: 4114 blocks cloned]
-[03:03:44] [Server thread/INFO]: [cherevon: 3630 blocks cloned]
-[03:03:54] [Server thread/INFO]: [MD13: 233 blocks filled]
-[03:04:09] [Server thread/INFO]: [cherevon: 3146 blocks cloned]
-[03:08:04] [Server thread/INFO]: [MD13: 84 blocks cloned]
-[03:08:17] [Server thread/INFO]: [MD13: 84 blocks cloned]
-[03:08:31] [Server thread/INFO]: [cherevon: 24 blocks filled]
-[03:08:39] [Server thread/INFO]: [MD13: 84 blocks cloned]
-[03:08:53] [Server thread/INFO]: [MD13: 84 blocks cloned]
-[03:08:58] [Server thread/INFO]: [MD13: 84 blocks cloned]
-[03:09:04] [Server thread/INFO]: [cherevon: 20 blocks filled]
-[03:09:09] [Server thread/INFO]: [MD13: 84 blocks cloned]
-[03:09:26] [Server thread/INFO]: [MD13: 84 blocks cloned]
-[03:09:41] [Server thread/INFO]: [MD13: 84 blocks cloned]
-[03:11:01] [Server thread/INFO]: [MD13: 84 blocks cloned]
-[03:11:06] [Server thread/INFO]: [cherevon: 84 blocks cloned]
-[03:11:18] [Server thread/INFO]: [MD13: 84 blocks cloned]
-[03:11:30] [Server thread/INFO]: [MD13: 84 blocks cloned]
-[03:11:51] [Server thread/INFO]: [MD13: 84 blocks cloned]
-[03:12:20] [Server thread/INFO]: [MD13: 84 blocks cloned]
-[03:12:59] [Server thread/INFO]: [cherevon: 56 blocks cloned]
-[03:13:54] [Server thread/INFO]: [MD13: 56 blocks cloned]
-[03:14:58] [Server thread/INFO]: [MD13: 56 blocks cloned]
-[03:15:06] [Server thread/INFO]: [MD13: 56 blocks cloned]
-[03:15:14] [Server thread/INFO]: [MD13: 56 blocks cloned]
-[03:15:27] [Server thread/INFO]: [MD13: 56 blocks cloned]
-[03:15:30] [Server thread/INFO]: [MD13: 56 blocks cloned]
-[03:15:56] [Server thread/INFO]: [MD13: 56 blocks cloned]
-[03:22:42] [Server thread/INFO]: [cherevon: 12800 blocks cloned]
-[03:23:53] [Server thread/INFO]: [cherevon: 12800 blocks cloned]
-[03:26:08] [Server thread/INFO]: [MD13: 517 blocks cloned]
-[03:32:21] [Server thread/INFO]: [cherevon: 279 blocks filled]
-[03:33:09] [Server thread/INFO]: [cherevon: 279 blocks filled]
-[03:33:54] [Server thread/INFO]: [MD13: 209 blocks filled]
-[03:33:58] [Server thread/INFO]: [cherevon: 12342 blocks cloned]
-[03:35:50] [Server thread/INFO]: [cherevon: 30 blocks cloned]
-[03:36:02] [Server thread/INFO]: [cherevon: 30 blocks cloned]
-[03:36:14] [Server thread/INFO]: [cherevon: 30 blocks cloned]
-[03:37:50] [Server thread/INFO]: [cherevon: 11374 blocks cloned]
-[03:38:34] [Server thread/INFO]: [MD13: 80 blocks cloned]
-[03:38:37] [Server thread/INFO]: [cherevon: 12342 blocks cloned]
-[03:38:43] [Server thread/INFO]: [MD13: 80 blocks cloned]
-[03:38:49] [Server thread/INFO]: [MD13: 80 blocks cloned]
-[03:38:51] [Server thread/INFO]: [MD13: 80 blocks cloned]
-[03:38:52] [Server thread/INFO]: [MD13: 80 blocks cloned]
-[03:38:53] [Server thread/INFO]: [MD13: 80 blocks cloned]
-[03:39:31] [Server thread/INFO]: [cherevon: 10406 blocks cloned]
-[03:40:16] [Server thread/INFO]: [cherevon: 10406 blocks cloned]
-[03:40:47] [Server thread/INFO]: [cherevon: 11374 blocks cloned]
-[03:41:06] [Server thread/INFO]: [cherevon: 10406 blocks cloned]
-[03:41:32] [Server thread/INFO]: [cherevon: 9438 blocks cloned]
-[03:42:03] [Server thread/INFO]: [cherevon: 8470 blocks cloned]
-[03:42:31] [Server thread/INFO]: [cherevon: 7502 blocks cloned]
-[03:42:59] [Server thread/INFO]: [cherevon: 6534 blocks cloned]
-[03:43:21] [Server thread/INFO]: [cherevon: 5566 blocks cloned]
-[03:43:40] [Server thread/INFO]: [cherevon: 4598 blocks cloned]
-[03:44:00] [Server thread/INFO]: [cherevon: 3630 blocks cloned]
-[03:45:32] [Server thread/INFO]: [cherevon: 240 blocks filled]
-[03:46:39] [Server thread/INFO]: [MD13: 138 blocks filled]
-[03:47:25] [Server thread/INFO]: [cherevon: Set the time to 1000]
-[03:50:11] [Server thread/INFO]: [MD13: 2744 blocks filled]
-[03:51:13] [Server thread/INFO]: [MD13: 6347 blocks filled]
-[03:51:46] [Server thread/INFO]: [cherevon: 9 blocks filled]
-[03:51:55] [Server thread/INFO]: [MD13: 943 blocks filled]
-[03:52:24] [Server thread/INFO]: [cherevon: 206 blocks filled]
-[03:52:33] [Server thread/INFO]: [MD13: 1073 blocks filled]
-[03:53:05] [Server thread/INFO]: [cherevon: 205 blocks filled]
-[03:56:17] [Server thread/INFO]: [cherevon: 98 blocks cloned]
-[03:57:02] [Server thread/INFO]: [cherevon: 178 blocks filled]
-[03:57:06] [Server thread/INFO]: [MD13: 24684 blocks cloned]
-[03:57:52] [Server thread/INFO]: [MD13: 4183 blocks filled]
-[03:59:23] [Server thread/INFO]: [cherevon: 164 blocks filled]
-[03:59:31] [Server thread/INFO]: [cherevon: 164 blocks filled]
-[03:59:45] [Server thread/INFO]: [MD13: 24684 blocks cloned]
-[03:59:49] [Server thread/INFO]: [cherevon: 164 blocks filled]
-[04:00:28] [Server thread/INFO]: [cherevon: 164 blocks filled]
-[04:00:35] [Server thread/INFO]: [MD13: 1167 blocks filled]
-[04:00:41] [Server thread/INFO]: [MD13: 1 blocks filled]
-[04:03:00] [Server thread/INFO]: [cherevon: 164 blocks filled]
-[04:03:24] [Server thread/INFO]: [MD13: 22638 blocks cloned]
-[04:03:25] [Server thread/INFO]: [cherevon: 164 blocks filled]
-[04:04:24] [Server thread/INFO]: [MD13: 22638 blocks cloned]
-[04:05:03] [Server thread/INFO]: [MD13: 22638 blocks cloned]
-[04:05:43] [Server thread/INFO]: [MD13: 815 blocks filled]
-[04:06:10] [Server thread/INFO]: [MD13: 126 blocks filled]
-[04:06:42] [Server thread/INFO]: [MD13: 2742 blocks filled]
-[04:07:12] [Server thread/INFO]: [MD13: 148 blocks filled]
-[04:07:23] [Server thread/INFO]: [MD13: 24684 blocks cloned]
-[04:11:41] [Server thread/INFO]: [cherevon: 355 blocks filled]
-[04:12:15] [Server thread/INFO]: [cherevon: 14 blocks filled]
-[04:12:48] [Server thread/INFO]: [cherevon: 373 blocks filled]
-[04:13:05] [Server thread/INFO]: [cherevon: 373 blocks filled]
-[04:13:19] [Server thread/INFO]: [cherevon: 373 blocks filled]
-[04:14:07] [Server thread/INFO]: [cherevon: 373 blocks filled]
-[04:14:12] [Server thread/INFO]: [MD13: Cleared the inventory of MD13, removing 21 items]
-[04:14:14] [Server thread/INFO]: [cherevon: 373 blocks filled]
-[04:15:07] [Server thread/INFO]: [cherevon: 373 blocks filled]
-[04:15:14] [Server thread/INFO]: [cherevon: 373 blocks filled]
-[04:15:20] [Server thread/INFO]: [cherevon: 373 blocks filled]
-[04:15:40] [Server thread/INFO]: [cherevon: 373 blocks filled]
-[04:15:58] [Server thread/INFO]: [cherevon: 373 blocks filled]
-[04:19:21] [Server thread/INFO]: MD13 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Удаленный хост принудительно разорвал существующее подключение], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[04:19:21] [Server thread/INFO]: MD13 left the game
-[04:20:03] [Server thread/INFO]: MD13[/192.168.0.105:49330] logged in with entity id 533090 at (1745.8703818773056, 75.90442225882616, 628.2827648807739)
-[04:20:03] [Server thread/INFO]: MD13 joined the game
-[04:20:24] [Server thread/INFO]: [MD13: Set MD13's spawn point to (1836, 85, 627)]
-[04:20:29] [Server thread/INFO]: [cherevon: Set cherevon's spawn point to (1806, 73, 614)]
-[04:21:17] [Server thread/INFO]: [cherevon: 376 blocks filled]
-[04:25:18] [Server thread/INFO]: [MD13: Teleported MD13 to cherevon]
-[04:26:45] [Server thread/INFO]: [cherevon: 172 blocks filled]
-[04:27:13] [Server thread/INFO]: [MD13: Teleported MD13 to cherevon]
-[04:28:54] [Server thread/INFO]: [MD13: Cleared the inventory of MD13, removing 9 items]
-[04:40:46] [Server thread/INFO]: [MD13: 3229 blocks filled]
-[04:40:53] [Server thread/INFO]: [MD13: 134 blocks filled]
-[04:40:55] [Server thread/INFO]: [MD13: 51 blocks filled]
-[04:40:56] [Server thread/INFO]: [MD13: 40 blocks filled]
-[04:40:57] [Server thread/INFO]: [MD13: 27 blocks filled]
-[04:40:58] [Server thread/INFO]: [MD13: 20 blocks filled]
-[04:40:59] [Server thread/INFO]: [MD13: 9 blocks filled]
-[04:53:34] [Server thread/INFO]: [cherevon: 6743 blocks filled]
-[04:53:40] [Server thread/INFO]: [cherevon: 1266 blocks filled]
-[04:53:41] [Server thread/INFO]: [cherevon: 780 blocks filled]
-[04:53:42] [Server thread/INFO]: [cherevon: 560 blocks filled]
-[04:53:43] [Server thread/INFO]: [cherevon: 483 blocks filled]
-[04:53:46] [Server thread/INFO]: [cherevon: 441 blocks filled]
-[04:53:47] [Server thread/INFO]: [cherevon: 404 blocks filled]
-[04:53:48] [Server thread/INFO]: [cherevon: 376 blocks filled]
-[04:53:49] [Server thread/INFO]: [cherevon: 349 blocks filled]
-[04:53:50] [Server thread/INFO]: [cherevon: 334 blocks filled]
-[04:53:51] [Server thread/INFO]: [cherevon: 263 blocks filled]
-[04:53:52] [Server thread/INFO]: [cherevon: 216 blocks filled]
-[04:53:52] [Server thread/INFO]: [cherevon: 192 blocks filled]
-[04:53:53] [Server thread/INFO]: [cherevon: 175 blocks filled]
-[04:53:54] [Server thread/INFO]: [cherevon: 160 blocks filled]
-[04:53:54] [Server thread/INFO]: [cherevon: 147 blocks filled]
-[04:53:55] [Server thread/INFO]: [cherevon: 136 blocks filled]
-[04:53:56] [Server thread/INFO]: [cherevon: 126 blocks filled]
-[04:54:02] [Server thread/INFO]: [cherevon: 28 blocks filled]
-[04:54:46] [Server thread/INFO]: [cherevon: 497 blocks filled]
-[04:55:16] [Server thread/INFO]: [MD13: 110 blocks filled]
-[04:55:46] [Server thread/INFO]: [cherevon: 19496 blocks filled]
-[04:55:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9114ms behind, skipping 182 tick(s)
-[04:56:06] [Server thread/INFO]: [cherevon: 19465 blocks filled]
-[04:56:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4395ms behind, skipping 87 tick(s)
-[04:56:29] [Server thread/INFO]: [cherevon: 32157 blocks filled]
-[04:56:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2014ms behind, skipping 40 tick(s)
-[04:56:57] [Server thread/INFO]: [cherevon: 31163 blocks filled]
-[04:57:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2207ms behind, skipping 44 tick(s)
-[04:57:15] [Server thread/INFO]: [cherevon: 26280 blocks filled]
-[04:57:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2553ms behind, skipping 51 tick(s)
-[04:57:24] [Server thread/INFO]: [cherevon: 19618 blocks filled]
-[04:57:32] [Server thread/INFO]: [cherevon: 14524 blocks filled]
-[04:57:37] [Server thread/INFO]: [cherevon: 4659 blocks filled]
-[04:57:59] [Server thread/INFO]: [cherevon: 10 blocks filled]
-[04:58:01] [Server thread/INFO]: [cherevon: 8 blocks filled]
-[05:00:01] [Server thread/INFO]: [cherevon: 6399 blocks filled]
-[05:00:06] [Server thread/INFO]: [cherevon: 6399 blocks filled]
-[05:00:13] [Server thread/INFO]: [cherevon: 6399 blocks filled]
-[05:01:54] [Server thread/INFO]: [cherevon: 6840 blocks filled]
-[05:02:00] [Server thread/INFO]: [cherevon: 266 blocks filled]
-[05:02:10] [Server thread/INFO]: [cherevon: 688 blocks filled]
-[05:02:37] [Server thread/INFO]: [MD13: 1109 blocks filled]
-[05:02:45] [Server thread/INFO]: [MD13: 824 blocks filled]
-[05:02:52] [Server thread/INFO]: [MD13: 555 blocks filled]
-[05:02:57] [Server thread/INFO]: [MD13: 411 blocks filled]
-[05:03:01] [Server thread/INFO]: [MD13: 297 blocks filled]
-[05:03:06] [Server thread/INFO]: [cherevon: 7584 blocks filled]
-[05:03:10] [Server thread/INFO]: [MD13: 1188 blocks filled]
-[05:03:22] [Server thread/INFO]: [MD13: 1188 blocks filled]
-[05:03:39] [Server thread/INFO]: [cherevon: 16668 blocks filled]
-[05:03:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3300ms behind, skipping 66 tick(s)
-[05:03:57] [Server thread/INFO]: [MD13: 3298 blocks filled]
-[05:04:09] [Server thread/INFO]: [cherevon: 7978 blocks filled]
-[05:04:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3233ms behind, skipping 64 tick(s)
-[05:04:39] [Server thread/INFO]: [MD13: 1896 blocks filled]
-[05:05:18] [Server thread/INFO]: [cherevon: 4212 blocks filled]
-[05:05:22] [Server thread/INFO]: [cherevon: 20 blocks filled]
-[05:05:22] [Server thread/INFO]: [MD13: 75 blocks filled]
-[05:05:52] [Server thread/INFO]: [cherevon: 4827 blocks filled]
-[05:05:56] [Server thread/INFO]: [MD13: 2433 blocks filled]
-[05:05:56] [Server thread/INFO]: [cherevon: 169 blocks filled]
-[05:06:08] [Server thread/INFO]: [cherevon: 283 blocks filled]
-[05:06:33] [Server thread/INFO]: [MD13: 320 blocks filled]
-[05:07:23] [Server thread/INFO]: [MD13: 2047 blocks filled]
-[05:08:18] [Server thread/INFO]: [MD13: 2321 blocks filled]
-[05:08:49] [Server thread/INFO]: [cherevon: 30996 blocks filled]
-[05:09:17] [Server thread/INFO]: [MD13: 15747 blocks filled]
-[05:09:49] [Server thread/INFO]: [MD13: 11904 blocks filled]
-[05:09:55] [Server thread/INFO]: [cherevon: 6032 blocks filled]
-[05:09:59] [Server thread/INFO]: [cherevon: 3355 blocks filled]
-[05:10:01] [Server thread/INFO]: [cherevon: 1693 blocks filled]
-[05:10:04] [Server thread/INFO]: [cherevon: 483 blocks filled]
-[05:10:05] [Server thread/INFO]: [cherevon: 108 blocks filled]
-[05:10:56] [Server thread/INFO]: [cherevon: 3036 blocks filled]
-[05:12:00] [Server thread/INFO]: [cherevon: 476 blocks filled]
-[05:12:21] [Server thread/INFO]: [MD13: 4948 blocks filled]
-[05:12:30] [Server thread/INFO]: [MD13: 395 blocks filled]
-[05:12:43] [Server thread/INFO]: [MD13: 5115 blocks filled]
-[05:13:01] [Server thread/INFO]: [cherevon: 13906 blocks filled]
-[05:13:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5204ms behind, skipping 104 tick(s)
-[05:13:36] [Server thread/INFO]: [MD13: 1834 blocks filled]
-[05:13:56] [Server thread/INFO]: [cherevon: 317 blocks filled]
-[05:13:58] [Server thread/INFO]: [cherevon: 88 blocks filled]
-[05:14:47] [Server thread/INFO]: [MD13: 1495 blocks filled]
-[05:14:59] [Server thread/INFO]: [cherevon: 10214 blocks filled]
-[05:17:32] [Server thread/INFO]: MD13 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[05:17:32] [Server thread/INFO]: MD13 left the game
-[05:18:09] [Server thread/INFO]: MD13[/192.168.0.105:49455] logged in with entity id 822211 at (1957.6786814718293, 84.64643369063272, 617.9543799199159)
-[05:18:09] [Server thread/INFO]: MD13 joined the game
-[05:40:03] [Server thread/INFO]: [cherevon: Set own game mode to Survival Mode]
-[05:41:28] [Server thread/INFO]: [cherevon: Set own game mode to Creative Mode]
-[05:47:10] [Server thread/INFO]: [cherevon: Set the time to 15000]
-[05:54:17] [Server thread/INFO]: [cherevon: Set the time to 1000]
-[05:59:05] [Server thread/INFO]: [MD13: 448 blocks filled]
-[05:59:14] [Server thread/INFO]: [MD13: 448 blocks filled]
-[06:13:21] [Server thread/INFO]: [cherevon: 155 blocks filled]
-[06:14:02] [Server thread/INFO]: [MD13: 191 blocks filled]
-[06:33:12] [Server thread/INFO]: [cherevon: Saved the world]
-[06:34:11] [Server thread/INFO]: [cherevon: Set the time to 15000]
-[06:39:58] [Server thread/INFO]: [cherevon: 249 blocks filled]
-[06:41:25] [Server thread/INFO]: [cherevon: 149 blocks filled]
-[07:04:16] [Server thread/INFO]: [cherevon: 109 blocks filled]
-[07:06:07] [Server thread/INFO]: cherevon lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Удаленный хост принудительно разорвал существующее подключение], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[07:06:07] [Server thread/INFO]: cherevon left the game
-[07:14:20] [Server thread/INFO]: MD13 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[07:14:20] [Server thread/INFO]: MD13 left the game
-[07:19:02] [Server thread/INFO]: Stopping the server
-[07:19:02] [Server thread/INFO]: Stopping server
-[07:19:02] [Server thread/INFO]: Saving players
-[07:19:02] [Server thread/INFO]: Saving worlds
-[07:19:02] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[07:19:02] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[07:19:02] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[07:19:02] [Server Shutdown Thread/INFO]: Stopping server
+[12:59:17] [Server thread/INFO]: Starting minecraft server version 1.8.3
+[12:59:17] [Server thread/INFO]: Loading properties
+[12:59:17] [Server thread/INFO]: Default game type: SURVIVAL
+[12:59:17] [Server thread/INFO]: Generating keypair
+[12:59:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:59:18] [Server thread/INFO]: Using default channel type
+[12:59:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:59:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:59:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:59:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:59:20] [Server thread/INFO]: Preparing level "world"
+[12:59:21] [Server thread/INFO]: Preparing start region for level 0
+[12:59:22] [Server thread/INFO]: Preparing spawn area: 0%
+[12:59:23] [Server thread/INFO]: Preparing spawn area: 69%
+[12:59:24] [Server thread/INFO]: Done (3,821s)! For help, type "help" or "?"
+[13:00:55] [Server thread/INFO]: cherevon[/127.0.0.1:11293] logged in with entity id 138 at (1906.4645899247514, 67.0, 667.5594576287122)
+[13:00:55] [Server thread/INFO]: cherevon joined the game
+[13:00:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3655ms behind, skipping 73 tick(s)
+[13:01:06] [Server thread/INFO]: [cherevon: Set the time to 1000]
+[13:03:06] [Server thread/INFO]: [cherevon: 19404 blocks cloned]
+[13:04:36] [Server thread/INFO]: [cherevon: 19404 blocks cloned]
+[13:05:39] [Server thread/INFO]: [cherevon: 25872 blocks cloned]
+[13:06:14] [Server thread/INFO]: [cherevon: 242 blocks cloned]
+[13:07:29] [Server thread/INFO]: [cherevon: 16830 blocks cloned]
+[13:09:05] [Server thread/INFO]: [cherevon: 16082 blocks cloned]
+[13:09:36] [Server thread/INFO]: [cherevon: 16082 blocks cloned]
+[13:14:06] [Server thread/INFO]: [cherevon: 15334 blocks cloned]
+[13:14:28] [Server thread/INFO]: [cherevon: 13838 blocks cloned]
+[13:18:19] [Server thread/INFO]: [cherevon: 2662 blocks cloned]
+[13:21:11] [Server thread/INFO]: [cherevon: 3320 blocks filled]
+[13:25:08] [Server thread/INFO]: [cherevon: 960 blocks cloned]
+[13:25:15] [Server thread/INFO]: [cherevon: 960 blocks cloned]
+[13:25:25] [Server thread/INFO]: [cherevon: 960 blocks cloned]
+[13:25:31] [Server thread/INFO]: [cherevon: 960 blocks cloned]
+[13:25:35] [Server thread/INFO]: [cherevon: 960 blocks cloned]
+[13:25:44] [Server thread/INFO]: [cherevon: 5760 blocks cloned]
+[13:25:49] [Server thread/INFO]: [cherevon: 5760 blocks cloned]
+[13:26:29] [Server thread/INFO]: [cherevon: 5760 blocks cloned]
+[13:27:31] [Server thread/INFO]: [cherevon: 1606 blocks filled]
+[13:31:23] [Server thread/INFO]: [cherevon: 960 blocks cloned]
+[13:31:27] [Server thread/INFO]: [cherevon: 960 blocks cloned]
+[13:31:35] [Server thread/INFO]: [cherevon: 2880 blocks cloned]
+[13:31:40] [Server thread/INFO]: [cherevon: 2880 blocks cloned]
+[13:31:44] [Server thread/INFO]: [cherevon: 2880 blocks cloned]
+[13:31:47] [Server thread/INFO]: [cherevon: 2880 blocks cloned]
+[13:31:50] [Server thread/INFO]: [cherevon: 2880 blocks cloned]
+[13:32:05] [Server thread/INFO]: [cherevon: 2880 blocks cloned]
+[13:35:05] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:35:11] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:35:15] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:35:47] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:35:51] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:35:59] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:36:03] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:36:09] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:36:12] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:36:17] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:36:22] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:36:30] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:36:36] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:36:40] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:36:47] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:36:55] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:37:00] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:37:07] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:37:12] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:37:16] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:37:20] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:37:24] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:37:29] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:37:33] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:37:37] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:37:41] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:37:45] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:37:49] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:37:53] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:37:56] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:38:00] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:38:03] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:38:09] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:38:12] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:39:05] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:39:11] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:39:14] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:39:23] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:39:27] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:39:30] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:39:33] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:39:36] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:39:39] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:39:43] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:39:46] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:39:48] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:39:52] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:39:55] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:39:58] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:40:01] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:40:05] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:40:08] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:40:11] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:40:14] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:40:17] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:40:21] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:40:23] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:40:26] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:40:29] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:40:32] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:40:35] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:40:38] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:40:41] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:40:45] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:40:48] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:40:51] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:40:54] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:40:57] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:41:00] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:41:06] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:41:10] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:41:14] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:41:16] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:41:21] [Server thread/INFO]: [cherevon: 20 blocks cloned]
+[13:42:01] [Server thread/INFO]: [cherevon] 5 4 4 3 3 1 2 1 2 1 2 2 1 1 1 1 1 1 2 2
+[13:45:32] [Server thread/INFO]: [cherevon: 3235 blocks filled]
+[13:46:20] [Server thread/INFO]: [cherevon] 5 4 4 3 3 1 2 1 2 1 2 2 1 1 1 1 1 1 2 2
+[13:49:07] [Server thread/INFO]: [cherevon: 1040 blocks cloned]
+[13:49:13] [Server thread/INFO]: [cherevon: 1040 blocks cloned]
+[13:49:25] [Server thread/INFO]: [cherevon: 3120 blocks cloned]
+[13:49:30] [Server thread/INFO]: [cherevon: 3120 blocks cloned]
+[13:49:32] [Server thread/INFO]: [cherevon: 3120 blocks cloned]
+[13:49:36] [Server thread/INFO]: [cherevon: 3120 blocks cloned]
+[13:49:40] [Server thread/INFO]: [cherevon: 3120 blocks cloned]
+[13:49:46] [Server thread/INFO]: [cherevon: 3120 blocks cloned]
+[13:52:30] [Server thread/INFO]: [cherevon: Given [Command Block] * 1 to cherevon]
+[13:53:51] [Server thread/INFO]: [cherevon: 336 blocks cloned]
+[13:55:52] [Server thread/INFO]: [cherevon: 672 blocks cloned]
+[13:58:17] [Server thread/INFO]: [cherevon: 672 blocks cloned]
+[13:59:29] [Server thread/INFO]: [cherevon: 672 blocks cloned]
+[14:02:24] [Server thread/INFO]: <cherevon> 1860 66 647
+[14:02:45] [Server thread/INFO]: <cherevon> 1862 79 662
+[14:03:55] [Server thread/INFO]: [@: 672 blocks cloned]
+[14:04:13] [Server thread/INFO]: [@: 672 blocks cloned]
+[14:05:31] [Server thread/INFO]: [cherevon: 11 blocks filled]
+[14:05:54] [Server thread/INFO]: [cherevon: 558 blocks filled]
+[14:06:53] [Server thread/INFO]: [@: 672 blocks cloned]
+[14:10:55] [Server thread/INFO]: [cherevon: 120 blocks cloned]
+[14:11:40] [Server thread/INFO]: [cherevon: 120 blocks cloned]
+[14:12:47] [Server thread/INFO]: [cherevon: 360 blocks cloned]
+[14:16:45] [Server thread/INFO]: <cherevon> 1835 66 620
+[14:17:35] [Server thread/INFO]: MD13[/192.168.0.105:52185] logged in with entity id 99149 at (1890.5630489033983, 110.33186912821868, 625.1582261209805)
+[14:17:35] [Server thread/INFO]: MD13 joined the game
+[14:17:46] [Server thread/INFO]: [@: 2160 blocks cloned]
+[14:19:27] [Server thread/INFO]: [cherevon: 295 blocks filled]
+[14:20:02] [Server thread/INFO]: [@: 672 blocks cloned]
+[14:22:46] [Server thread/INFO]: <cherevon> 1827 66 620
+[14:23:31] [Server thread/INFO]: <MD13> s
+[14:23:34] [Server thread/INFO]: [@: 2160 blocks cloned]
+[14:24:29] [Server thread/INFO]: [@: 606 blocks filled]
+[14:24:29] [Server thread/INFO]: [@: 672 blocks cloned]
+[14:26:13] [Server thread/INFO]: [@: 664 blocks filled]
+[14:26:14] [Server thread/INFO]: [@: 960 blocks cloned]
+[14:27:11] [Server thread/INFO]: [@: 462 blocks filled]
+[14:27:11] [Server thread/INFO]: [@: 960 blocks cloned]
+[14:28:24] [Server thread/INFO]: [@: 490 blocks filled]
+[14:28:24] [Server thread/INFO]: [@: 960 blocks cloned]
+[14:28:51] [Server thread/INFO]: [@: 484 blocks filled]
+[14:28:52] [Server thread/INFO]: [@: 960 blocks cloned]
+[14:28:55] [Server thread/INFO]: [@: 2160 blocks cloned]
+[14:29:10] [Server thread/INFO]: [@: 2160 blocks cloned]
+[14:29:23] [Server thread/INFO]: [@: 2160 blocks cloned]
+[14:29:49] [Server thread/INFO]: [@: 606 blocks filled]
+[14:29:50] [Server thread/INFO]: [@: 960 blocks cloned]
+[14:30:50] [Server thread/INFO]: [@: 480 blocks filled]
+[14:30:50] [Server thread/INFO]: [@: 960 blocks cloned]
+[14:33:03] [Server thread/INFO]: [cherevon: 2160 blocks cloned]
+[14:34:02] [Server thread/INFO]: [@: 484 blocks filled]
+[14:34:02] [Server thread/INFO]: [@: 1200 blocks cloned]
+[14:34:47] [Server thread/INFO]: <cherevon> 1852
+[14:34:53] [Server thread/INFO]: <cherevon> 1844
+[14:35:10] [Server thread/INFO]: [@: 2160 blocks cloned]
+[14:35:36] [Server thread/INFO]: [@: 606 blocks filled]
+[14:35:37] [Server thread/INFO]: [@: 1200 blocks cloned]
+[14:36:02] [Server thread/INFO]: [@: 2160 blocks cloned]
+[14:36:16] [Server thread/INFO]: [@: 480 blocks filled]
+[14:36:16] [Server thread/INFO]: [@: 1200 blocks cloned]
+[14:37:10] [Server thread/INFO]: [@: 532 blocks filled]
+[14:37:10] [Server thread/INFO]: [@: 1200 blocks cloned]
+[14:38:44] [Server thread/INFO]: [@: 2160 blocks cloned]
+[14:39:01] [Server thread/INFO]: [@: 594 blocks filled]
+[14:39:02] [Server thread/INFO]: [@: 1200 blocks cloned]
+[14:39:17] [Server thread/INFO]: [@: 528 blocks filled]
+[14:39:17] [Server thread/INFO]: [@: 1200 blocks cloned]
+[14:39:33] [Server thread/INFO]: [@: 2160 blocks cloned]
+[14:39:53] [Server thread/INFO]: [@: 594 blocks filled]
+[14:39:53] [Server thread/INFO]: [@: 1200 blocks cloned]
+[14:40:00] [Server thread/INFO]: [@: 2160 blocks cloned]
+[14:40:16] [Server thread/INFO]: [@: 734 blocks filled]
+[14:40:16] [Server thread/INFO]: [@: 1200 blocks cloned]
+[14:40:24] [Server thread/INFO]: [@: 2160 blocks cloned]
+[14:41:14] [Server thread/INFO]: [@: 606 blocks filled]
+[14:41:15] [Server thread/INFO]: [@: 1200 blocks cloned]
+[14:41:41] [Server thread/INFO]: [@: 618 blocks filled]
+[14:41:41] [Server thread/INFO]: [@: 1200 blocks cloned]
+[14:41:57] [Server thread/INFO]: [@: 2160 blocks cloned]
+[14:42:11] [Server thread/INFO]: [@: 594 blocks filled]
+[14:42:11] [Server thread/INFO]: [@: 1200 blocks cloned]
+[14:42:18] [Server thread/INFO]: [@: 2160 blocks cloned]
+[14:43:54] [Server thread/INFO]: [@: 594 blocks filled]
+[14:43:54] [Server thread/INFO]: [@: 1200 blocks cloned]
+[14:43:56] [Server thread/INFO]: [@: 2160 blocks cloned]
+[14:47:08] [Server thread/INFO]: [@: 642 blocks filled]
+[14:47:09] [Server thread/INFO]: [@: 1200 blocks cloned]
+[14:47:11] [Server thread/INFO]: [@: 2160 blocks cloned]
+[14:48:00] [Server thread/INFO]: [@: 722 blocks filled]
+[14:48:00] [Server thread/INFO]: [@: 1200 blocks cloned]
+[14:48:02] [Server thread/INFO]: [@: 2160 blocks cloned]
+[14:49:56] [Server thread/INFO]: [@: 722 blocks filled]
+[14:49:56] [Server thread/INFO]: [@: 1200 blocks cloned]
+[14:50:39] [Server thread/INFO]: [@: 532 blocks filled]
+[14:50:39] [Server thread/INFO]: [@: 1200 blocks cloned]
+[14:51:12] [Server thread/INFO]: [@: 2160 blocks cloned]
+[14:51:16] [Server thread/INFO]: [@: 722 blocks filled]
+[14:51:16] [Server thread/INFO]: [@: 1200 blocks cloned]
+[14:51:18] [Server thread/INFO]: [@: 2160 blocks cloned]
+[14:52:07] [Server thread/INFO]: [@: 722 blocks filled]
+[14:52:07] [Server thread/INFO]: [@: 1200 blocks cloned]
+[14:52:12] [Server thread/INFO]: [@: 2160 blocks cloned]
+[14:52:57] [Server thread/INFO]: [@: 722 blocks filled]
+[14:52:57] [Server thread/INFO]: [@: 1200 blocks cloned]
+[14:53:13] [Server thread/INFO]: [@: 2160 blocks cloned]
+[14:54:27] [Server thread/INFO]: [@: 722 blocks filled]
+[14:54:27] [Server thread/INFO]: [@: 1200 blocks cloned]
+[14:54:47] [Server thread/INFO]: [@: 2160 blocks cloned]
+[14:57:59] [Server thread/INFO]: [@: 2160 blocks cloned]
+[14:57:59] [Server thread/INFO]: [@: 32 blocks filled]
+[14:58:05] [Server thread/INFO]: [@: 2160 blocks cloned]
+[14:58:05] [Server thread/INFO]: [@: 32 blocks filled]
+[14:58:17] [Server thread/INFO]: [@: 722 blocks filled]
+[14:58:18] [Server thread/INFO]: [@: 32 blocks filled]
+[14:58:18] [Server thread/INFO]: [@: 1200 blocks cloned]
+[14:58:22] [Server thread/INFO]: [@: 2160 blocks cloned]
+[14:58:23] [Server thread/INFO]: [@: 32 blocks filled]
+[15:32:35] [Server thread/INFO]: [@: 724 blocks filled]
+[15:32:35] [Server thread/INFO]: [@: 32 blocks filled]
+[15:32:35] [Server thread/INFO]: [@: 1200 blocks cloned]
+[15:33:19] [Server thread/INFO]: [cherevon: Stopping the server]
+[15:33:19] [Server thread/INFO]: Stopping server
+[15:33:19] [Server thread/INFO]: Saving players
+[15:33:20] [Server thread/INFO]: cherevon lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.lang.StackOverflowError], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:33:20] [Server thread/INFO]: cherevon left the game
+[15:33:20] [Server thread/INFO]: Saving worlds
+[15:33:20] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[15:33:20] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[15:33:20] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[15:33:20] [Server Shutdown Thread/INFO]: Stopping server
